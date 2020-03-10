@@ -295,7 +295,7 @@ function renderHotelPage() {
 
 
 function runApp() {
-  //handleSeachButton();
+  //handleSearchButton();
   handleHomeClicked()
   displayCountries();
   displayCity();
